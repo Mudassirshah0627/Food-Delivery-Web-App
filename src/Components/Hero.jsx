@@ -1,6 +1,7 @@
 import React from "react";
 
 import Food from "../Public/assets/Images/Burger.png";
+
 const Hero = () => {
   return (
     <div className="Hero-section px-[2%] pt-12 h-screen w-full bg-cover bg-center bg-no-repeat">
