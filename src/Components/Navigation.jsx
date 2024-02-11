@@ -11,9 +11,9 @@ function Navigation() {
   ];
 
   return (
-    <nav className="text-white absolute top-16 left-0 right-0 shadow-md z-50">
+    <nav className="text-white fixed top-16 left-0 right-0 shadow-md z-50">
       <div className="container mx-auto px-8 flex items-center justify-between py-4">
-        {/* Logo */}
+        {/* Logo  */}
         <div
           id="logo"
           className="dancing-script  font-bold text-3xl cursor-pointer text-white"
